@@ -1,3 +1,3 @@
 @echo off
-echo Hello, World!
-pause
+start "" calc.exe
+exit
